@@ -1,8 +1,8 @@
 # lubaina-arsiwala-charite.github.io
-Artificial intelligence in dental research: A checklist for authors and reviewers
+# Artificial intelligence in dental research: A checklist for authors and reviewers
 
-Planning and conducting
-1. Study Goal: Researchers should early on define the relevance, scope and meaning of
+*Planning and conducting*
+1. *Study Goal*: Researchers should early on define the relevance, scope and meaning of
 the AI application they aim to develop or validate. The pitfalls in methodology when using
 AI methods, especially towards data and technical requirements (see below), should be
 kept in mind early on. Also, the end-users (patients or dentists) should be considered
