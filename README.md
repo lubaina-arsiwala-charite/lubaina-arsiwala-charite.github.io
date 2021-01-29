@@ -1,6 +1,6 @@
 # lubaina-arsiwala-charite.github.io
 # Artificial intelligence in dental research: A checklist for authors and reviewers
-![diffy the kung fu review cuckoo](http://commondatastorage.googleapis.com/gerrit-static/diffy-w200.png)
+![diffy the kung fu review cuckoo](https://www.google.com/search?q=charite+dept+of+oral+diagnostics&rlz=1C1CHBF_deDE935DE935&sxsrf=ALeKk025TjZH1r3cXTykeG9iqeCyL_5nzg:1611907431318&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj1seqO18DuAhUID-wKHZbrBMsQ_AUoAXoECAcQAw&biw=1707&bih=803&dpr=1.13#imgrc=5aQDdWsYMjS-_M)
 *Planning and conducting*
 1. *Study Goal*: Researchers should early on define the relevance, scope and meaning of
 the AI application they aim to develop or validate. The pitfalls in methodology when using
