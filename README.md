@@ -1,6 +1,6 @@
 # lubaina-arsiwala-charite.github.io
 # Artificial intelligence in dental research: A checklist for authors and reviewers
-
+![diffy the kung fu review cuckoo](http://commondatastorage.googleapis.com/gerrit-static/diffy-w200.png)
 *Planning and conducting*
 1. *Study Goal*: Researchers should early on define the relevance, scope and meaning of
 the AI application they aim to develop or validate. The pitfalls in methodology when using
